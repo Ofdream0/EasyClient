@@ -1,4 +1,4 @@
-# EasyClient by Ofdream
+# Easy Client by Ofdream
 Minecraft oyununda SonOyuncu ve CraftRise'da stabil olarak çalışan, diğer oyunculardan üstün olmanızı sağlayan yazılım.
 
 # Ekran Görüntüleri:
